@@ -1,3 +1,3 @@
-This project was designed in Tinkercad and exported for use with M5Stack.  
+This project started with a brief designed in Tinkercad.  
 
 👉 [View our Tinkercad design](https://www.tinkercad.com/things/37scwAZm7wM-m5stack-project)
